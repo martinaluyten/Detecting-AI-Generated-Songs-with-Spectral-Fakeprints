@@ -4,7 +4,7 @@ A simple detector for AI-generated music (Suno, Udio, ...) that uses only
 spectral information. Each track is turned into a one-dimensional "fakeprint"
 feature, and a logistic regression classifier separates real from fake songs.
 
-Homework 2 for the course Computer Music - Representations And Model (CMRM) at Politecnico di Milano.
+Homework 2 for the course Computer Music - Representations And Models (CMRM) at Politecnico di Milano.
 
 Authors: Martina Luyten and Andrea Casati
 
